@@ -1,7 +1,11 @@
 name: create-branch
 on:
   workflow_dispatch:
-    inputs: []
+    inputs:
+      branch:
+        description: 'Branch To Release From'
+        required: true
+        type: string
 
 jobs:
   build:
