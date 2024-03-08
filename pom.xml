@@ -8,9 +8,44 @@
   <artifactId>cruise-pack-data</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
+  <name>${project.groupId}:${project.artifactId}</name>
+  <description>cruise-pack-data contains metadata used by CruisePack</description>
+  <url>${homepage}</url>
+
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <developer.name>CIRES / NCEI Marine Geology and Geophysics Software Developers</developer.name>
+    <homepage>https://github.com/CI-CMG/cruise-pack-data</homepage>
   </properties>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>${developer.name}</name>
+      <organization>CIRES</organization>
+      <organizationUrl>https://github.com/CI-CMG</organizationUrl>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:git@github.com:CI-CMG/JCruisePack.git</connection>
+    <developerConnection>scm:git:git@github.com:CI-CMG/JCruisePack.git</developerConnection>
+    <url>${project.url}</url>
+  </scm>
+
+  <distributionManagement>
+    <snapshotRepository>
+      <id>ossrh</id>
+      <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
 
 </project>
