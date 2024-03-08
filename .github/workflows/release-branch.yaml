@@ -1,11 +1,6 @@
 name: release-branch
 on:
   workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch To Release From'
-        required: true
-        type: string
 
 jobs:
   build:
