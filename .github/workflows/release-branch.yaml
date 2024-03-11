@@ -21,7 +21,7 @@ jobs:
       - name: Setup Git
         run: git config --global user.email "ci-cmg-jenkins@example.com" && git config --global user.name "Jenkins"
       - name: Build with Maven
-        run: mvn -X -B build-helper:parse-version -Dpat=${{ secrets.RELEASE_PAT }} -Dusername=${{ secrets.RELEASE_USERNAME }} -Dpassword=${{ secrets.RELEASE_PAT }} -Dresume=false -Dtag='v${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}' -DreleaseVersion='${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}' -DdevelopmentVersion='${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.nextIncrementalVersion}-SNAPSHOT' release:prepare release:perform
+        run: mvn -B build-helper:parse-version -Dpat=${{ secrets.RELEASE_PAT }} -Dusername=${{ secrets.RELEASE_USERNAME }} -Dpassword=${{ secrets.RELEASE_PAT }} -Dresume=false -Dtag='v${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}' -DreleaseVersion='${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}' -DdevelopmentVersion='${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.nextIncrementalVersion}-SNAPSHOT' release:prepare release:perform
         env:
           MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
           MAVEN_PASSWORD: ${{ secrets.OSSRH_TOKEN }}
