@@ -317,7 +317,7 @@
                   <owner>ci-cmg</owner>
                   <repository>cruise-pack-data</repository>
                   <tagName>v${project.version}</tagName>
-                  <targetCommitish>${git.branch}</targetCommitish>
+                  <targetCommitish>trunk</targetCommitish>
                   <body>v${project.version}</body>
                   <assets>
                     <asset>target/cruise-pack-data-${project.version}-javadoc.jar</asset>
