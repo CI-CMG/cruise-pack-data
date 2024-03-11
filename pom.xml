@@ -302,6 +302,40 @@
               </execution>
             </executions>
           </plugin>
+          <plugin>
+            <groupId>com.ragedunicorn.tools.maven</groupId>
+            <artifactId>github-release-maven-plugin</artifactId>
+            <version>1.0.7</version>
+            <executions>
+              <execution>
+                <id>default-cli</id>
+                <configuration>
+                  <owner>ci-cmg</owner>
+                  <repository>cruise-pack-data</repository>
+                  <tagName>v${project.version}</tagName>
+                  <body>v${project.version}</body>
+                  <assets>
+                    <asset>target/cruise-pack-data-${project.version}-javadoc.jar</asset>
+<!--                    <asset>target/cruise-pack-data-${project.version}-javadoc.jar.asc</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}-javadoc.jar.md5</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}-javadoc.jar.sha1</asset>-->
+                    <asset>target/cruise-pack-data-${project.version}-sources.jar</asset>
+<!--                    <asset>target/cruise-pack-data-${project.version}-sources.jar.asc</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}-sources.jar.md5</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}-sources.jar.sha1</asset>-->
+                    <asset>target/cruise-pack-data-${project.version}.jar</asset>
+<!--                    <asset>target/cruise-pack-data-${project.version}.jar.asc</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.jar.md5</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.jar.sha1</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.pom</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.pom.asc</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.pom.md5</asset>-->
+<!--                    <asset>target/cruise-pack-data-${project.version}.pom.sha1</asset>-->
+                  </assets>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
         </plugins>
       </build>
     </profile>
