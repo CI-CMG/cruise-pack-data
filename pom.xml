@@ -308,7 +308,11 @@
             <version>1.0.7</version>
             <executions>
               <execution>
-                <id>default-cli</id>
+                <id>github-release</id>
+                <phase>deploy</phase>
+                <goals>
+                  <goal>github-release</goal>
+                </goals>
                 <configuration>
                   <owner>ci-cmg</owner>
                   <repository>cruise-pack-data</repository>
