@@ -22,27 +22,27 @@
           <ShortName>OS-75</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3193d84f-924f-4ed5-9886-51741c9a6221</Uuid>
+          <Uuid>3193d84f-924f-4ed5-9886-51741c9a6221</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-82daeb8b-27d0-4840-868c-ef3c05e11fb2</Uuid>
+          <Uuid>82daeb8b-27d0-4840-868c-ef3c05e11fb2</Uuid>
           <Name>Teledyne Pinnacle 45kHz</Name>
           <ShortName>Pinnacle</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-04d38ebb-6be5-4552-a475-13640d57c5bc</Uuid>
+          <Uuid>04d38ebb-6be5-4552-a475-13640d57c5bc</Uuid>
           <Name>Simrad EC-150</Name>
           <ShortName>EC-150</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-55205791-1062-47db-8f39-8cc0596dcadb</Uuid>
+          <Uuid>55205791-1062-47db-8f39-8cc0596dcadb</Uuid>
           <Name>Teledyne Workhorse Mariner 300kHz</Name>
           <ShortName>Workhorse_Mariner</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-ecf4c094-fd14-4804-89ed-3f0a67a75887</Uuid>
+          <Uuid>ecf4c094-fd14-4804-89ed-3f0a67a75887</Uuid>
           <Name>RDI OS-75</Name>
           <ShortName>OS-150</ShortName>
         </Instrument>
@@ -110,7 +110,7 @@
           </FileExtensions>
         </Instrument>
         <Instrument>
-          <Uuid>temp-793cb922-4f9d-4822-bb42-15a898a91d57</Uuid>
+          <Uuid>793cb922-4f9d-4822-bb42-15a898a91d57</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
           <FileExtensions>
@@ -157,12 +157,12 @@
       </AdditionalFields>
       <Instruments>
         <Instrument>
-          <Uuid>temp-fd47dce0-c0eb-4d79-ac7c-fb9d0a13732e</Uuid>
+          <Uuid>fd47dce0-c0eb-4d79-ac7c-fb9d0a13732e</Uuid>
           <Name>ARPA-1 Vibrating String Accelerometer</Name>
           <ShortName>ARPA-1</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-e53c4370-ea1c-4768-8245-eeac386e2a9f</Uuid>
+          <Uuid>e53c4370-ea1c-4768-8245-eeac386e2a9f</Uuid>
           <Name>Bell BGM2</Name>
           <ShortName>BGM2</ShortName>
         </Instrument>
@@ -172,292 +172,292 @@
           <ShortName>BGM3</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-89d915a5-da58-457f-b307-f50ca1a366b0</Uuid>
+          <Uuid>89d915a5-da58-457f-b307-f50ca1a366b0</Uuid>
           <Name>Bell BGM3-224</Name>
           <ShortName>BGM3-224</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-2feff803-a291-4105-8bb5-e69b40d2f0a8</Uuid>
+          <Uuid>2feff803-a291-4105-8bb5-e69b40d2f0a8</Uuid>
           <Name>Bell BGM3-228</Name>
           <ShortName>BGM3-228</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-90e41406-cbbf-4b0a-98cd-1dad1a150993</Uuid>
+          <Uuid>90e41406-cbbf-4b0a-98cd-1dad1a150993</Uuid>
           <Name>Bell BGM5</Name>
           <ShortName>BGM5</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-21b1f61c-e13c-45f6-be72-b7850afa666c</Uuid>
+          <Uuid>21b1f61c-e13c-45f6-be72-b7850afa666c</Uuid>
           <Name>Bell BGM6</Name>
           <ShortName>BGM6</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-48ec5ae4-83ec-4c36-9561-d8d60dd9602e</Uuid>
+          <Uuid>48ec5ae4-83ec-4c36-9561-d8d60dd9602e</Uuid>
           <Name>Bell Gravimeter</Name>
           <ShortName>Bell</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-58967023-6883-422c-90f2-3c86decfb48a</Uuid>
+          <Uuid>58967023-6883-422c-90f2-3c86decfb48a</Uuid>
           <Name>Bodenseewerk KSS30</Name>
           <ShortName>KSS30</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a12b5918-351f-45de-b028-d91fabd696cb</Uuid>
+          <Uuid>a12b5918-351f-45de-b028-d91fabd696cb</Uuid>
           <Name>Bodenseewerk KSS31</Name>
           <ShortName>KSS31</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8a8a961f-96ae-415d-8a50-8e08801d53b6</Uuid>
+          <Uuid>8a8a961f-96ae-415d-8a50-8e08801d53b6</Uuid>
           <Name>Bodenseewerk KSS31-14</Name>
           <ShortName>KSS31-14</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-0231b5b2-0a13-43fd-b59f-cc461806bbeb</Uuid>
+          <Uuid>0231b5b2-0a13-43fd-b59f-cc461806bbeb</Uuid>
           <Name>Bodenseewerk KSS31-22</Name>
           <ShortName>KSS31-22</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1196f394-baa4-470d-a8fb-ee0749746050</Uuid>
+          <Uuid>1196f394-baa4-470d-a8fb-ee0749746050</Uuid>
           <Name>Bodenseewerk KSS31-25</Name>
           <ShortName>KSS31-25</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-cb126499-78a1-42dc-b8f1-d3d649b6cdad</Uuid>
+          <Uuid>cb126499-78a1-42dc-b8f1-d3d649b6cdad</Uuid>
           <Name>Bodenseewerk KSS31-26</Name>
           <ShortName>KSS31-26</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-4d5bcb98-7754-4fa3-be15-e47d0b9a7016</Uuid>
+          <Uuid>4d5bcb98-7754-4fa3-be15-e47d0b9a7016</Uuid>
           <Name>Bodenseewerk KSS5</Name>
           <ShortName>KSS5</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-c361f698-a47a-4d76-a1fc-fa06818a6290</Uuid>
+          <Uuid>c361f698-a47a-4d76-a1fc-fa06818a6290</Uuid>
           <Name>Carson 6300</Name>
           <ShortName>6300</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-ec4a4275-a815-44fd-ac53-3b6e103ebcaf</Uuid>
+          <Uuid>ec4a4275-a815-44fd-ac53-3b6e103ebcaf</Uuid>
           <Name>Graf-Askania 11</Name>
           <ShortName>11</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-04f0e3b0-3c66-4dd3-b14e-d88d561f71f3</Uuid>
+          <Uuid>04f0e3b0-3c66-4dd3-b14e-d88d561f71f3</Uuid>
           <Name>Graf-Askania 22 Gravimeter</Name>
           <ShortName>22</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-25f88757-9cdf-47be-9807-49e42c209d55</Uuid>
+          <Uuid>25f88757-9cdf-47be-9807-49e42c209d55</Uuid>
           <Name>Graf-Askania 23</Name>
           <ShortName>23</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-432e8c58-f0e5-458d-a5f0-b5b01261d5e5</Uuid>
+          <Uuid>432e8c58-f0e5-458d-a5f0-b5b01261d5e5</Uuid>
           <Name>Graf-Askania Gravimeter</Name>
           <ShortName>GF</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8a48dd0a-7ab2-4563-84e9-832bd46ebc78</Uuid>
+          <Uuid>8a48dd0a-7ab2-4563-84e9-832bd46ebc78</Uuid>
           <Name>Graf-Askania GSS2</Name>
           <ShortName>GSS2</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a0cba20b-4ee8-4cb4-b97f-92821aa9bedc</Uuid>
+          <Uuid>a0cba20b-4ee8-4cb4-b97f-92821aa9bedc</Uuid>
           <Name>Graf-Askania GSS2-12</Name>
           <ShortName>GSS2-12</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-d600c9a0-0329-457b-8684-9912611c743d</Uuid>
+          <Uuid>d600c9a0-0329-457b-8684-9912611c743d</Uuid>
           <Name>Graf-Askania GSS2-14</Name>
           <ShortName>GSS2-14</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a2c75a42-0bd3-4fdf-b13e-5922250bb200</Uuid>
+          <Uuid>a2c75a42-0bd3-4fdf-b13e-5922250bb200</Uuid>
           <Name>Graf-Askania GSS2-17</Name>
           <ShortName>GSS2-17</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-0cfd93cc-ee72-46a1-a9c7-c88df5334fd1</Uuid>
+          <Uuid>0cfd93cc-ee72-46a1-a9c7-c88df5334fd1</Uuid>
           <Name>Graf-Askania GSS2-22</Name>
           <ShortName>GSS2-22</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1ac4e92c-6cc6-4a60-9cc6-aa95a4abc510</Uuid>
+          <Uuid>1ac4e92c-6cc6-4a60-9cc6-aa95a4abc510</Uuid>
           <Name>Graf-Askania GSS2-25</Name>
           <ShortName>GSS2-25</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-ad50eee8-8f1f-4eb8-b90c-3a5199d2dcf1</Uuid>
+          <Uuid>ad50eee8-8f1f-4eb8-b90c-3a5199d2dcf1</Uuid>
           <Name>Graf-Askania GSS2-26</Name>
           <ShortName>GSS2-26</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-4016fd51-4731-403e-b164-12b824818fa9</Uuid>
+          <Uuid>4016fd51-4731-403e-b164-12b824818fa9</Uuid>
           <Name>Graf-Askania GSS2-31</Name>
           <ShortName>GSS2-31</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-71350d62-41f7-45cc-a553-b279d8cda041</Uuid>
+          <Uuid>71350d62-41f7-45cc-a553-b279d8cda041</Uuid>
           <Name>Graf-Askania GSS2-33</Name>
           <ShortName>GSS2-33</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-cfa59be8-c819-44d7-a58d-65c24329a4ec</Uuid>
+          <Uuid>cfa59be8-c819-44d7-a58d-65c24329a4ec</Uuid>
           <Name>Graf-Askania GSS2-6</Name>
           <ShortName>GSS2-6</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-f9b61b29-6666-4bc4-b888-5250f1e2c769</Uuid>
+          <Uuid>f9b61b29-6666-4bc4-b888-5250f1e2c769</Uuid>
           <Name>Graf-Askania GSS3-1</Name>
           <ShortName>GSS3-1</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6a3ecc55-b125-402b-93e4-effcbf4dab2c</Uuid>
+          <Uuid>6a3ecc55-b125-402b-93e4-effcbf4dab2c</Uuid>
           <Name>Graf-Askania GSS3-53</Name>
           <ShortName>GSS3-53</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-85f4f6f5-c78d-46ab-87df-cf4576d19dd2</Uuid>
+          <Uuid>85f4f6f5-c78d-46ab-87df-cf4576d19dd2</Uuid>
           <Name>Graf-Askania GSS3-55</Name>
           <ShortName>GSS3-55</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6322354d-1907-4e4e-ad8c-3b7237c7aca8</Uuid>
+          <Uuid>6322354d-1907-4e4e-ad8c-3b7237c7aca8</Uuid>
           <Name>LaCoste and Romberg</Name>
           <ShortName>LCR</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-59cd2df6-daa1-455d-994d-670aae606384</Uuid>
+          <Uuid>59cd2df6-daa1-455d-994d-670aae606384</Uuid>
           <Name>LaCoste and Romberg G112</Name>
           <ShortName>G112</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-2e9a7f7c-94b9-48f4-aa11-7b3e390bbe5d</Uuid>
+          <Uuid>2e9a7f7c-94b9-48f4-aa11-7b3e390bbe5d</Uuid>
           <Name>LaCoste and Romberg S105</Name>
           <ShortName>S105</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-01b8883a-4ae7-4a2f-9eb6-4aa004c8e23d</Uuid>
+          <Uuid>01b8883a-4ae7-4a2f-9eb6-4aa004c8e23d</Uuid>
           <Name>LaCoste and Romberg S11</Name>
           <ShortName>S11</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8cf34a21-c8c1-4768-a171-0eceb837d30f</Uuid>
+          <Uuid>8cf34a21-c8c1-4768-a171-0eceb837d30f</Uuid>
           <Name>LaCoste and Romberg S24</Name>
           <ShortName>S24</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1dca2d03-ae02-40ed-b15c-191d979cd966</Uuid>
+          <Uuid>1dca2d03-ae02-40ed-b15c-191d979cd966</Uuid>
           <Name>LaCoste and Romberg S33</Name>
           <ShortName>S33</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-cc88484f-5b84-4716-a843-8f992e85119c</Uuid>
+          <Uuid>cc88484f-5b84-4716-a843-8f992e85119c</Uuid>
           <Name>LaCoste and Romberg S36</Name>
           <ShortName>S36</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-0d594d1a-136e-4d0b-9304-80e3e14863ae</Uuid>
+          <Uuid>0d594d1a-136e-4d0b-9304-80e3e14863ae</Uuid>
           <Name>LaCoste and Romberg S38</Name>
           <ShortName>S38</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-e6d0c5e9-5d7c-4814-8340-fc1cdf942265</Uuid>
+          <Uuid>e6d0c5e9-5d7c-4814-8340-fc1cdf942265</Uuid>
           <Name>LaCoste and Romberg S40</Name>
           <ShortName>S40</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-843505e3-bc62-4db5-89ff-d320d7d37d57</Uuid>
+          <Uuid>843505e3-bc62-4db5-89ff-d320d7d37d57</Uuid>
           <Name>LaCoste and Romberg S42</Name>
           <ShortName>S42</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-124d3204-e321-4098-938f-71b17ba7cecc</Uuid>
+          <Uuid>124d3204-e321-4098-938f-71b17ba7cecc</Uuid>
           <Name>LaCoste and Romberg S51</Name>
           <ShortName>S51</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-d24620a8-bd1f-4827-a669-b983ef8617fa</Uuid>
+          <Uuid>d24620a8-bd1f-4827-a669-b983ef8617fa</Uuid>
           <Name>LaCoste and Romberg S53</Name>
           <ShortName>S53</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-18740f88-3d40-493d-bf44-2f5726aeee6d</Uuid>
+          <Uuid>18740f88-3d40-493d-bf44-2f5726aeee6d</Uuid>
           <Name>LaCoste and Romberg S57</Name>
           <ShortName>S57</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-db71e595-7dbf-43e7-8655-4c1e81247f99</Uuid>
+          <Uuid>db71e595-7dbf-43e7-8655-4c1e81247f99</Uuid>
           <Name>LaCoste and Romberg S63</Name>
           <ShortName>S63</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-0362e27b-dacc-4b86-9c73-a32f28de014b</Uuid>
+          <Uuid>0362e27b-dacc-4b86-9c73-a32f28de014b</Uuid>
           <Name>LaCoste and Romberg S71</Name>
           <ShortName>S71</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1c9ce0de-6fca-4080-b106-71005215bc87</Uuid>
+          <Uuid>1c9ce0de-6fca-4080-b106-71005215bc87</Uuid>
           <Name>LaCoste and Romberg S76</Name>
           <ShortName>S76</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6a620345-bf1d-49c5-b0f5-bd9917142d07</Uuid>
+          <Uuid>6a620345-bf1d-49c5-b0f5-bd9917142d07</Uuid>
           <Name>LaCoste and Romberg S80</Name>
           <ShortName>S80</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-008e2846-466c-4f59-b483-093cb28b63c2</Uuid>
+          <Uuid>008e2846-466c-4f59-b483-093cb28b63c2</Uuid>
           <Name>LaCoste and Romberg S84</Name>
           <ShortName>S84</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-72749e06-bd9f-438c-b11f-b2e9012f02a5</Uuid>
+          <Uuid>72749e06-bd9f-438c-b11f-b2e9012f02a5</Uuid>
           <Name>LaCoste and Romberg S86</Name>
           <ShortName>S86</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a9ab4d9e-57e7-436a-a058-8cf8e79b6d3c</Uuid>
+          <Uuid>a9ab4d9e-57e7-436a-a058-8cf8e79b6d3c</Uuid>
           <Name>LaCoste and Romberg S9</Name>
           <ShortName>S9</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-dbeb16ca-8fbc-49d0-ac4d-1d397ae34a42</Uuid>
+          <Uuid>dbeb16ca-8fbc-49d0-ac4d-1d397ae34a42</Uuid>
           <Name>LaCoste and Romberg SL2</Name>
           <ShortName>SL2</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-da14fa5a-4e0a-4494-a710-a7334e7b8513</Uuid>
+          <Uuid>da14fa5a-4e0a-4494-a710-a7334e7b8513</Uuid>
           <Name>NIPRORI-I</Name>
           <ShortName>NIPRORI-I</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8c4f8244-0511-4929-a954-4b138af23fa2</Uuid>
+          <Uuid>8c4f8244-0511-4929-a954-4b138af23fa2</Uuid>
           <Name>NIPRORI-II</Name>
           <ShortName>NIPRORI-II</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-4a48db9e-9ae6-426f-a912-260c0f7ab693</Uuid>
+          <Uuid>4a48db9e-9ae6-426f-a912-260c0f7ab693</Uuid>
           <Name>TSSG-H1</Name>
           <ShortName>TSSG-H1</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-c0eb105f-ca1f-464c-9791-c707738ebf8f</Uuid>
+          <Uuid>c0eb105f-ca1f-464c-9791-c707738ebf8f</Uuid>
           <Name>TSSG-H2</Name>
           <ShortName>TSSG-H2</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-efe2fb86-51aa-4380-ae21-930b1eabdeef</Uuid>
+          <Uuid>efe2fb86-51aa-4380-ae21-930b1eabdeef</Uuid>
           <Name>TSSG-H3</Name>
           <ShortName>TSSG-H3</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-b342a18a-3971-4f67-b2c8-511bb9641cd3</Uuid>
+          <Uuid>b342a18a-3971-4f67-b2c8-511bb9641cd3</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-dc5b0801-9ed6-4d9b-8d71-f4630a17f847</Uuid>
+          <Uuid>dc5b0801-9ed6-4d9b-8d71-f4630a17f847</Uuid>
           <Name>Worden 114</Name>
           <ShortName>114</ShortName>
         </Instrument>
@@ -495,107 +495,107 @@
       </AdditionalFields>
       <Instruments>
         <Instrument>
-          <Uuid>temp-2395cb65-a4e0-424c-abea-b64cbbbfe32f</Uuid>
+          <Uuid>2395cb65-a4e0-424c-abea-b64cbbbfe32f</Uuid>
           <Name>B.I. Sea Magnetometer</Name>
           <ShortName>BISM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-08719fd4-61f5-4e45-89b0-7df35a9303f1</Uuid>
+          <Uuid>08719fd4-61f5-4e45-89b0-7df35a9303f1</Uuid>
           <Name>Barringer M244</Name>
           <ShortName>M244</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-94d02728-14dc-45be-9f51-caa969eeb983</Uuid>
+          <Uuid>94d02728-14dc-45be-9f51-caa969eeb983</Uuid>
           <Name>Barringer OM103</Name>
           <ShortName>OM103</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-55bcc290-bafb-4106-ba5a-af78259df9cf</Uuid>
+          <Uuid>55bcc290-bafb-4106-ba5a-af78259df9cf</Uuid>
           <Name>Barringer OM104</Name>
           <ShortName>OM104</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-75e2b854-e343-4efb-a2bc-799bad71132c</Uuid>
+          <Uuid>75e2b854-e343-4efb-a2bc-799bad71132c</Uuid>
           <Name>Barringer Proton Precession Magnetometer</Name>
           <ShortName>BPRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-9481e690-15aa-41ba-81d3-7522c759e0f4</Uuid>
+          <Uuid>9481e690-15aa-41ba-81d3-7522c759e0f4</Uuid>
           <Name>Cambridge Consultants Proton Precession Magnetometer</Name>
           <ShortName>CCPRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-b27b1839-a0fb-4d80-a42a-b692c5e1cf28</Uuid>
+          <Uuid>b27b1839-a0fb-4d80-a42a-b692c5e1cf28</Uuid>
           <Name>DSIR Proton Precession Magnetometer</Name>
           <ShortName>DSIR-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1eadb652-dc85-40b6-968a-d0f8187328ce</Uuid>
+          <Uuid>1eadb652-dc85-40b6-968a-d0f8187328ce</Uuid>
           <Name>ELSEC 7706</Name>
           <ShortName>ELSEC-7706</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-4515140b-4249-4a31-bd18-ac5aed886778</Uuid>
+          <Uuid>4515140b-4249-4a31-bd18-ac5aed886778</Uuid>
           <Name>ELSEC Proton Precession Magnetometer</Name>
           <ShortName>ELSEC-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-90fc2fa8-73d5-471c-ba11-fc22d6001adb</Uuid>
+          <Uuid>90fc2fa8-73d5-471c-ba11-fc22d6001adb</Uuid>
           <Name>G.S.C. 60-2</Name>
           <ShortName>GSC-60-2</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-b579c239-c698-4f32-a6f8-be9d8a380f71</Uuid>
+          <Uuid>b579c239-c698-4f32-a6f8-be9d8a380f71</Uuid>
           <Name>G.S.C. Magnetometer</Name>
           <ShortName>GSC-M</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-98a4598f-ad70-449a-9cb5-42e2d979c704</Uuid>
+          <Uuid>98a4598f-ad70-449a-9cb5-42e2d979c704</Uuid>
           <Name>Geometrics G123</Name>
           <ShortName>G123</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-65871598-50f6-4fec-8f8d-fa85786d3f91</Uuid>
+          <Uuid>65871598-50f6-4fec-8f8d-fa85786d3f91</Uuid>
           <Name>Geometrics G301</Name>
           <ShortName>G301</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-23796bd2-f414-4f60-8f42-0da12da7e10e</Uuid>
+          <Uuid>23796bd2-f414-4f60-8f42-0da12da7e10e</Uuid>
           <Name>Geometrics G801</Name>
           <ShortName>G801</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-372ff310-940b-4618-963f-ce0ef71d657d</Uuid>
+          <Uuid>372ff310-940b-4618-963f-ce0ef71d657d</Uuid>
           <Name>Geometrics G801-3</Name>
           <ShortName>G801-3</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-d7d24381-7fad-420f-b631-cddb89b26ee4</Uuid>
+          <Uuid>d7d24381-7fad-420f-b631-cddb89b26ee4</Uuid>
           <Name>Geometrics G811</Name>
           <ShortName>G811</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-c7aa7861-291e-4156-9963-19045327d03e</Uuid>
+          <Uuid>c7aa7861-291e-4156-9963-19045327d03e</Uuid>
           <Name>Geometrics G821</Name>
           <ShortName>G821</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-52c99e53-641b-44cb-8f2b-76bd3d2b0d16</Uuid>
+          <Uuid>52c99e53-641b-44cb-8f2b-76bd3d2b0d16</Uuid>
           <Name>Geometrics G859</Name>
           <ShortName>G859</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-2c4b9228-5011-4191-b029-fed5e99d7d23</Uuid>
+          <Uuid>2c4b9228-5011-4191-b029-fed5e99d7d23</Uuid>
           <Name>Geometrics G866</Name>
           <ShortName>G866</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-212e8643-fd45-4760-807a-4a7b0c99b00e</Uuid>
+          <Uuid>212e8643-fd45-4760-807a-4a7b0c99b00e</Uuid>
           <Name>Geometrics G877</Name>
           <ShortName>G877</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3a6ed9dc-de2d-4474-a009-8fccd3c8529f</Uuid>
+          <Uuid>3a6ed9dc-de2d-4474-a009-8fccd3c8529f</Uuid>
           <Name>Geometrics G881</Name>
           <ShortName>G881</ShortName>
         </Instrument>
@@ -605,132 +605,132 @@
           <ShortName>G882</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6e26cc39-300f-4ee0-b004-8b026feea332</Uuid>
+          <Uuid>6e26cc39-300f-4ee0-b004-8b026feea332</Uuid>
           <Name>Geometrics G886</Name>
           <ShortName>G886</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-7ff415dd-0d07-4d6e-97a1-80698b51894b</Uuid>
+          <Uuid>7ff415dd-0d07-4d6e-97a1-80698b51894b</Uuid>
           <Name>Geometrics Proton Precession Magnetometer</Name>
           <ShortName>GPRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6a0081c0-8a6c-4b94-88bc-f9f99e97165f</Uuid>
+          <Uuid>6a0081c0-8a6c-4b94-88bc-f9f99e97165f</Uuid>
           <Name>KM-2</Name>
           <ShortName>KM-2</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-5de5f056-73e4-4505-8949-a0387ecfde72</Uuid>
+          <Uuid>5de5f056-73e4-4505-8949-a0387ecfde72</Uuid>
           <Name>Kokusai Electronics PMM-100</Name>
           <ShortName>PMM-100</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-dc43028b-be03-4e33-aea6-1c7534c421c3</Uuid>
+          <Uuid>dc43028b-be03-4e33-aea6-1c7534c421c3</Uuid>
           <Name>Kokusai Electronics PMM-200</Name>
           <ShortName>PMM-200</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a05336c5-fcc5-46f3-a276-1bb94a0acc09</Uuid>
+          <Uuid>a05336c5-fcc5-46f3-a276-1bb94a0acc09</Uuid>
           <Name>Kokusai Electronics PMM-611G</Name>
           <ShortName>PMM-611G</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-583d8eb6-aebc-4c3b-810b-13631bde3ee3</Uuid>
+          <Uuid>583d8eb6-aebc-4c3b-810b-13631bde3ee3</Uuid>
           <Name>Kokusai Electronics PMM-711G</Name>
           <ShortName>PMM-711G</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-fe9a0753-829d-4a3f-900c-665da56b4eb2</Uuid>
+          <Uuid>fe9a0753-829d-4a3f-900c-665da56b4eb2</Uuid>
           <Name>L-DGO MFG Proton Precession Magnetometer</Name>
           <ShortName>L-DGO-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-071e0af4-1240-466b-aaa1-6bf1b4f91be2</Uuid>
+          <Uuid>071e0af4-1240-466b-aaa1-6bf1b4f91be2</Uuid>
           <Name>MPM-1M</Name>
           <ShortName>MPM-1M</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-6a424648-b4ff-4560-a9f3-adc061446b25</Uuid>
+          <Uuid>6a424648-b4ff-4560-a9f3-adc061446b25</Uuid>
           <Name>O.S.U. Proton Precession Magnetometer</Name>
           <ShortName>OSU-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1ef90518-bcfb-49b5-ac3c-c2839e8b3d85</Uuid>
+          <Uuid>1ef90518-bcfb-49b5-ac3c-c2839e8b3d85</Uuid>
           <Name>Peebles Proton Precession Magnetometer</Name>
           <ShortName>P-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-d859fad0-5756-4228-a5a7-bdd0f109f20b</Uuid>
+          <Uuid>d859fad0-5756-4228-a5a7-bdd0f109f20b</Uuid>
           <Name>SeaSPY</Name>
           <ShortName>SeaSPY</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3acc6f59-f940-4c75-b435-2f1db34cd071</Uuid>
+          <Uuid>3acc6f59-f940-4c75-b435-2f1db34cd071</Uuid>
           <Name>SeaSPY S009</Name>
           <ShortName>SeaSPY-S009</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-af69fea8-b99c-4967-b80a-5ff4d3f64a2f</Uuid>
+          <Uuid>af69fea8-b99c-4967-b80a-5ff4d3f64a2f</Uuid>
           <Name>Serson Proton Precession Magnetometer</Name>
           <ShortName>S-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-eaac4c20-8ee3-4f07-8395-cca677cff3bd</Uuid>
+          <Uuid>eaac4c20-8ee3-4f07-8395-cca677cff3bd</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-4267587c-e819-44c3-99b8-9cbd9c481b7c</Uuid>
+          <Uuid>4267587c-e819-44c3-99b8-9cbd9c481b7c</Uuid>
           <Name>Vacquier Fluxgate Magnetometer</Name>
           <ShortName>Magnetics</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1472c2ca-f7b7-47b1-804b-194ddd456a3c</Uuid>
+          <Uuid>1472c2ca-f7b7-47b1-804b-194ddd456a3c</Uuid>
           <Name>Varian 172</Name>
           <ShortName>172</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a819a4fb-b6a2-46d8-b9b9-0d1e6b4168c5</Uuid>
+          <Uuid>a819a4fb-b6a2-46d8-b9b9-0d1e6b4168c5</Uuid>
           <Name>Varian 173</Name>
           <ShortName>173</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8e4dd0be-90a3-4a25-8de5-332f53fbe6cb</Uuid>
+          <Uuid>8e4dd0be-90a3-4a25-8de5-332f53fbe6cb</Uuid>
           <Name>Varian 174</Name>
           <ShortName>174</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-556d9dd5-2583-4273-87bb-b9c0e3d69a79</Uuid>
+          <Uuid>556d9dd5-2583-4273-87bb-b9c0e3d69a79</Uuid>
           <Name>Varian Proton Precession Magnetometer</Name>
           <ShortName>V-PRM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-058e3ecf-a2d9-44e2-ba0a-73ee93e374b8</Uuid>
+          <Uuid>058e3ecf-a2d9-44e2-ba0a-73ee93e374b8</Uuid>
           <Name>Varian V4931</Name>
           <ShortName>V4931</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8e5e355e-2943-4115-a452-0f079ef08014</Uuid>
+          <Uuid>8e5e355e-2943-4115-a452-0f079ef08014</Uuid>
           <Name>Varian V4937</Name>
           <ShortName>V4937</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-119ac61c-118e-4416-81c3-8ea12110ec67</Uuid>
+          <Uuid>119ac61c-118e-4416-81c3-8ea12110ec67</Uuid>
           <Name>Varian V4970</Name>
           <ShortName>V4970</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-0b99cf4a-cb1a-4933-8a03-4557e4e14469</Uuid>
+          <Uuid>0b99cf4a-cb1a-4933-8a03-4557e4e14469</Uuid>
           <Name>Varian V75</Name>
           <ShortName>V75</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-e469c39d-af2d-4114-be28-17698aa3d79d</Uuid>
+          <Uuid>e469c39d-af2d-4114-be28-17698aa3d79d</Uuid>
           <Name>Varian V85</Name>
           <ShortName>V85</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-63011dcb-b2a3-41d2-b72f-54dfe77cdfba</Uuid>
+          <Uuid>63011dcb-b2a3-41d2-b72f-54dfe77cdfba</Uuid>
           <Name>Vostok Proton Precession Magnetometer</Name>
           <ShortName>Vo-PRM</ShortName>
         </Instrument>
@@ -1017,12 +1017,12 @@
           </FileExtensions>
         </Instrument>
         <Instrument>
-          <Uuid>temp-7881e3b4-fb50-426b-80f6-82ead29ad081</Uuid>
+          <Uuid>7881e3b4-fb50-426b-80f6-82ead29ad081</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
         <Instrument flatten="true">
-          <Uuid>temp-7881e3b4-fb50-426b-80f6-82ead29ad081</Uuid>
+          <Uuid>7881e3b4-fb50-426b-80f6-82ead29ad081</Uuid>
           <Name>EdgeTech</Name>
           <ShortName>EdgeTech</ShortName>
           <FileExtensions>
@@ -1046,7 +1046,7 @@
           <ShortName>T50-P</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
+          <Uuid>612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
           <Name>Norbit Winghead</Name>
           <ShortName>Winghead</ShortName>
         </Instrument>
@@ -1103,7 +1103,7 @@
           <ShortName>NAV</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
+          <Uuid>612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1113,7 +1113,7 @@
           <ShortName>GP-150</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
+          <Uuid>612e7e42-302c-4e14-95fb-1ffc1fa821cf</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1123,12 +1123,12 @@
           <ShortName>POS-MV-320</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-bd33a80a-76e9-4e08-bef5-e58d3f589215</Uuid>
+          <Uuid>bd33a80a-76e9-4e08-bef5-e58d3f589215</Uuid>
           <Name>Applanix POS/MV</Name>
           <ShortName>POS-MV</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-bf94fef8-f4da-422a-a424-9e1fdc88abd4</Uuid>
+          <Uuid>bf94fef8-f4da-422a-a424-9e1fdc88abd4</Uuid>
           <Name>Seapath 380Plus</Name>
           <ShortName>Seapath</ShortName>
         </Instrument>
@@ -1140,7 +1140,7 @@
       <ShortType>OTHER</ShortType>
       <Instruments>
         <Instrument>
-          <Uuid>temp-add2118e-ee79-4b82-b12e-9e97c1b6815e</Uuid>
+          <Uuid>add2118e-ee79-4b82-b12e-9e97c1b6815e</Uuid>
           <Name>Biological Data</Name>
           <ShortName>OTHER</ShortName>
         </Instrument>
@@ -1220,7 +1220,7 @@
           <ShortName>SBE-45</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-a894b97e-2414-4fe6-85f3-4e6b8ee39019</Uuid>
+          <Uuid>a894b97e-2414-4fe6-85f3-4e6b8ee39019</Uuid>
           <Name>SCS</Name>
           <ShortName>SCS</ShortName>
         </Instrument>
@@ -1235,7 +1235,7 @@
           <ShortName>STM</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-81c2a265-246c-4c7b-abc3-f866e1b29bbe</Uuid>
+          <Uuid>81c2a265-246c-4c7b-abc3-f866e1b29bbe</Uuid>
           <Name>Sound Speed Data</Name>
           <ShortName>SS</ShortName>
         </Instrument>
@@ -1245,7 +1245,7 @@
           <ShortName>10AU</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-1e1dde37-cddc-4963-a8ec-e4c49f6cd346</Uuid>
+          <Uuid>1e1dde37-cddc-4963-a8ec-e4c49f6cd346</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1255,7 +1255,7 @@
           <ShortName>ECO-F</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-8678dcfa-5101-4413-ab6d-6abdcdfca6b0</Uuid>
+          <Uuid>8678dcfa-5101-4413-ab6d-6abdcdfca6b0</Uuid>
           <Name>Valeport SWiFT SVP</Name>
           <ShortName>SWIFT</ShortName>
         </Instrument>
@@ -1344,17 +1344,17 @@
           <ShortName>ODEC-2000-CHIRP</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-435c8f0d-1ce6-4822-8583-41979b2f522c</Uuid>
+          <Uuid>435c8f0d-1ce6-4822-8583-41979b2f522c</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-5e3d7ffe-426c-4684-bb1e-5ebca83dba4d</Uuid>
+          <Uuid>5e3d7ffe-426c-4684-bb1e-5ebca83dba4d</Uuid>
           <Name>Airmar DT800</Name>
           <ShortName>DT800</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-fcd9838b-c14f-48df-9d56-7c75809a7a02</Uuid>
+          <Uuid>fcd9838b-c14f-48df-9d56-7c75809a7a02</Uuid>
           <Name>Echotrac E20</Name>
           <ShortName>E20</ShortName>
         </Instrument>
@@ -1391,7 +1391,7 @@
           <ShortName>ODEC-2000-CHIRP</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-11d1081d-fd69-433a-a796-5cebdc250211</Uuid>
+          <Uuid>11d1081d-fd69-433a-a796-5cebdc250211</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1590,7 +1590,7 @@
           </FileExtensions>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3b9003a2-658a-47e4-9b22-be4da7b1daa7</Uuid>
+          <Uuid>3b9003a2-658a-47e4-9b22-be4da7b1daa7</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1640,7 +1640,7 @@
           <ShortName>XBT</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3c128ab3-4cd3-4277-85ad-6d937f50be5e</Uuid>
+          <Uuid>3c128ab3-4cd3-4277-85ad-6d937f50be5e</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
@@ -1652,52 +1652,52 @@
       <ShortType>ANCILLARY</ShortType>
       <Instruments>
         <Instrument>
-          <Uuid>temp-590f4c71-97c2-4da1-b56c-6394ec30e290</Uuid>
+          <Uuid>590f4c71-97c2-4da1-b56c-6394ec30e290</Uuid>
           <Name>Water Column Sonar Ancillary</Name>
           <ShortName>WCSD</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-f9739eaf-5383-456e-bc76-e8940c5016be</Uuid>
+          <Uuid>f9739eaf-5383-456e-bc76-e8940c5016be</Uuid>
           <Name>XBT Ancillary</Name>
           <ShortName>XBT</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-2939e55b-e501-4bb0-897a-47d2410b1364</Uuid>
+          <Uuid>2939e55b-e501-4bb0-897a-47d2410b1364</Uuid>
           <Name>Sub Bottom Ancillary</Name>
           <ShortName>SubBottom</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-02895a59-2911-4d5c-aa96-e6bd4e6c1aff</Uuid>
+          <Uuid>02895a59-2911-4d5c-aa96-e6bd4e6c1aff</Uuid>
           <Name>Singlebeam Bathymetry Ancillary</Name>
           <ShortName>SB-Bathy</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-e6c6ba74-cb95-42a8-b39f-36c1b291bb59</Uuid>
+          <Uuid>e6c6ba74-cb95-42a8-b39f-36c1b291bb59</Uuid>
           <Name>Navigation Ancillary</Name>
           <ShortName>Nav</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-e2e3214a-2a5f-4cba-942c-19078c14653b</Uuid>
+          <Uuid>e2e3214a-2a5f-4cba-942c-19078c14653b</Uuid>
           <Name>Multibeam Bathymetry Ancillary</Name>
           <ShortName>MB</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-f07008b6-1e28-4e9a-8203-a2b472f13982</Uuid>
+          <Uuid>f07008b6-1e28-4e9a-8203-a2b472f13982</Uuid>
           <Name>Magnetics Ancillary</Name>
           <ShortName>Mag</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-3d65326b-7f6b-4eea-820f-79d968938e5d</Uuid>
+          <Uuid>3d65326b-7f6b-4eea-820f-79d968938e5d</Uuid>
           <Name>Gravity Ancillary</Name>
           <ShortName>Grav</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-87a56470-e853-49e9-9539-9a6129cf3b06</Uuid>
+          <Uuid>87a56470-e853-49e9-9539-9a6129cf3b06</Uuid>
           <Name>CTD Ancillary</Name>
           <ShortName>CTD</ShortName>
         </Instrument>
         <Instrument>
-          <Uuid>temp-d8384de4-d85b-4f85-b9ba-18838c7754bd</Uuid>
+          <Uuid>d8384de4-d85b-4f85-b9ba-18838c7754bd</Uuid>
           <Name>ADCP Ancillary</Name>
           <ShortName>ADCPA</ShortName>
         </Instrument>
@@ -1709,7 +1709,7 @@
       <ShortType>SIDE-SCAN</ShortType>
       <Instruments>
         <Instrument>
-          <Uuid>temp-01b6d7f6-c0d5-41ba-b2da-a4d4cf3b5418</Uuid>
+          <Uuid>01b6d7f6-c0d5-41ba-b2da-a4d4cf3b5418</Uuid>
           <Name>Unlisted Instrument</Name>
           <ShortName>Unlisted</ShortName>
         </Instrument>
