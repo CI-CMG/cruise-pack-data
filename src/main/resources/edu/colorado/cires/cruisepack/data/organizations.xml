@@ -4,7 +4,7 @@
     <Organizations>
         <Organization>
             <Name>AFSC</Name>
-            <Street>7600 Sand Point Way N.E., Building 4 </Street>
+            <Street>7600 Sand Point Way N.E., Building 4</Street>
             <City>Seattle</City>
             <State>WA</State>
             <Zip>98115</Zip>
@@ -15,7 +15,7 @@
         </Organization>
         <Organization>
             <Name>NEFSC</Name>
-            <Street>166 Water Street </Street>
+            <Street>166 Water Street</Street>
             <City>Woods Hole</City>
             <State>MA</State>
             <Zip>02543-1026</Zip>
@@ -26,12 +26,12 @@
         </Organization>
         <Organization>
             <Name>NWFSC</Name>
-            <Street>2725 Montlake Boulevard East </Street>
+            <Street>2725 Montlake Boulevard East</Street>
             <City>Seattle</City>
             <State>WA</State>
-            <Zip>98112 </Zip>
+            <Zip>98112</Zip>
             <Country>USA</Country>
-            <Phone>206-860-3200 </Phone>
+            <Phone>206-860-3200</Phone>
             <Uuid>95bb98c1-36ce-462d-b9aa-2caef4fa0a40</Uuid>
             <Use>true</Use>
         </Organization>
@@ -42,24 +42,24 @@
             <State>HI</State>
             <Zip>96822-2396</Zip>
             <Country>USA</Country>
-            <Phone> 808-983-5300</Phone>
+            <Phone>808-983-5300</Phone>
             <Uuid>cafb6caa-03af-4c54-8c8f-b5dbfc5734bf</Uuid>
             <Use>true</Use>
         </Organization>
         <Organization>
             <Name>SEFSC</Name>
             <Street>75 Virginia Beach Dr.</Street>
-            <City> Miami </City>
+            <City>Miami</City>
             <State>FL</State>
             <Zip>33149</Zip>
             <Country>USA</Country>
-            <Phone>305-361-4200 </Phone>
+            <Phone>305-361-4200</Phone>
             <Uuid>7ab0c8aa-8a78-4112-98f7-c93cea679192</Uuid>
             <Use>true</Use>
         </Organization>
         <Organization>
             <Name>SWFSC</Name>
-            <Street>8901 La Jolla Shores Dr. </Street>
+            <Street>8901 La Jolla Shores Dr.</Street>
             <City>La Jolla</City>
             <State>CA</State>
             <Zip>92037</Zip>

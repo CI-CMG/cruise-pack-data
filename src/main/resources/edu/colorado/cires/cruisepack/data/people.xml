@@ -15,7 +15,6 @@
             <Phone>603-862-0369</Phone>
             <Uuid>8503be40-572f-11e1-b86c-0800200c9a66</Uuid>
             <Use>false</Use>
-            <Orcid></Orcid>
         </Person>
         <Person>
             <Name>Anne Trehu</Name>
@@ -86,7 +85,6 @@
             <Phone>303-497-4742</Phone>
             <Uuid>7273deab-88c3-4b1d-9b80-0ee5fbc42a21</Uuid>
             <Use>true</Use>
-            <Orcid></Orcid>
         </Person>
         <Person>
             <Name>Craig Lee</Name>
@@ -325,7 +323,6 @@
             <Phone>206-526-6304</Phone>
             <Uuid>c1a72f2f-2a7b-4803-83f9-972c3e9ce1e1</Uuid>
             <Use>true</Use>
-            <Orcid></Orcid>
         </Person>
         <Person>
             <Name>Savannah LaBua</Name>
