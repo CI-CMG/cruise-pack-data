@@ -1705,6 +1705,12 @@
     </InstrumentGroup>
 
     <InstrumentGroup>
+      <DataType>Documents Data</DataType>
+      <ShortType>DOCUMENTS</ShortType>
+      <Instruments/>
+    </InstrumentGroup>
+
+    <InstrumentGroup>
       <DataType>Side Scan Sonar</DataType>
       <ShortType>SIDE-SCAN</ShortType>
       <Instruments>
